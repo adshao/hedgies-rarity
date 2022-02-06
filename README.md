@@ -1,4 +1,4 @@
-# Hedgies Rariry
+# Hedgies Rarity
 
 generate hedgies.csv:
 
